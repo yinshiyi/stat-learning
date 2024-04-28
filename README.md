@@ -8,7 +8,7 @@ edgeR in CRISPR screen
 
 comparison of edgeR, DEseq2 and limma [link](https://www.biostars.org/p/284775/)
 
-FDR method
+FDR method (https://www.tilestats.com/videos/)
 * BH method
 * [qvalue, Storey's method](https://youtu.be/T6J4b-WWebM?si=UEG6yu9141WKKQ-F)
   *  qvalue histogram and lamda estimate
